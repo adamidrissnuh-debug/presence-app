@@ -1,9 +1,11 @@
 {
-  "versionCode": 50301,
-  "versionName": "5.3.1",
-  "sha256": "edc7e154b33d9b331e9a126ad8b250a1540dc72b94157dad13e374f9f47b6532",
-  "taille": 41658913,
+  "versionCode": 50400,
+  "versionName": "5.4.0",
+  "sha256": "b74ba69a1263fa11fccb961e573bb147229d6f656ebb307f5a283f1809ff5a74",
+  "taille": 41774573,
   "nouveautes": [
-    "Tes apps essentielles gardent toujours leurs couleurs, même avec le noir et blanc (sauf une app aussi protégée)"
+    "Tes widgets en haut de l'accueil (météo, agenda, notes…) : appui long sur le décor, « Ajouter un widget », 4 au plus",
+    "Tes apps se cachent dans le décor : la fontaine, la pierre, le panier… Touche l'objet, elles en sortent, puis y retournent après 15 secondes",
+    "On peut garder les apps visibles dans Réglages › Avancé › Accueil et univers"
   ]
 }
