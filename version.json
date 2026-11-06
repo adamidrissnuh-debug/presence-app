@@ -1,0 +1,11 @@
+{
+  "versionCode": 50200,
+  "versionName": "5.2.0",
+  "sha256": "985746f6c16dc36f3cb8705af1bd2fb824b357cea5aa37d9ab1a0b408070ef82",
+  "taille": 41566521,
+  "nouveautes": [
+    "Les mises à jour arrivent toutes seules : une carte sur Aujourd'hui, puis « Installer »",
+    "« Tout va bien ? » dans les Réglages : ce qui marche, ce qui est à réparer, et un bouton pour chaque chose",
+    "Si Android coupe la protection, Présence te prévient (une fois par jour au plus)"
+  ]
+}
