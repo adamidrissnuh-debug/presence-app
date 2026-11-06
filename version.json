@@ -1,11 +1,15 @@
 {
-  "versionCode": 50200,
-  "versionName": "5.2.0",
-  "sha256": "985746f6c16dc36f3cb8705af1bd2fb824b357cea5aa37d9ab1a0b408070ef82",
-  "taille": 41566521,
+  "versionCode": 50300,
+  "versionName": "5.3.0",
+  "sha256": "eb42592b2f98d8570fee2451f1e0f3e1f2772c3fe0576655e890a1e997943001",
+  "taille": 41658597,
   "nouveautes": [
-    "Les mises à jour arrivent toutes seules : une carte sur Aujourd'hui, puis « Installer »",
-    "« Tout va bien ? » dans les Réglages : ce qui marche, ce qui est à réparer, et un bouton pour chaque chose",
-    "Si Android coupe la protection, Présence te prévient (une fois par jour au plus)"
+    "Trois réglages au choix : Doux, Équilibré ou Strict ; le détail est rangé dans « Avancé »",
+    "Quand une app est arrêtée, le même écran dit toujours pourquoi et jusqu'à quand",
+    "Réponse automatique pendant le focus et la nuit (à activer dans les Réglages)",
+    "« Ma journée » remplace Aujourd'hui : une seule chose à la fois",
+    "Les feuilles sont la seule récompense ; le reste devient des surprises",
+    "Le Cercle tient en 4 parties : les proches, un mot, ensemble, réglages",
+    "Inviter un proche par QR code ou message"
   ]
 }
