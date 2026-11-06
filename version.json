@@ -1,11 +1,9 @@
 {
-  "versionCode": 50400,
-  "versionName": "5.4.0",
-  "sha256": "b74ba69a1263fa11fccb961e573bb147229d6f656ebb307f5a283f1809ff5a74",
-  "taille": 41774573,
+  "versionCode": 50401,
+  "versionName": "5.4.1",
+  "sha256": "642db1777c11f283e0c202608e005947602b6043e797bcb148a50565b292655c",
+  "taille": 41774589,
   "nouveautes": [
-    "Tes widgets en haut de l'accueil (météo, agenda, notes…) : appui long sur le décor, « Ajouter un widget », 4 au plus",
-    "Tes apps se cachent dans le décor : la fontaine, la pierre, le panier… Touche l'objet, elles en sortent, puis y retournent après 15 secondes",
-    "On peut garder les apps visibles dans Réglages › Avancé › Accueil et univers"
+    "Tes apps retournent dans leur cachette après 5 secondes sans toucher l'écran (au lieu de 15)"
   ]
 }
