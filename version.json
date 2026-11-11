@@ -1,13 +1,12 @@
 {
-  "versionCode": 50700,
-  "versionName": "5.7.0",
-  "sha256": "9325fee46e5a91ead50211e11cbdaad41ab34dfa91777a43e5a930072c24a119",
-  "taille": 42393520,
+  "versionCode": 50701,
+  "versionName": "5.7.1",
+  "sha256": "ab1ae2cc3d2d1f5ba05efb31de88c70a585775bca14390aab5ee64792ac8a671",
+  "taille": 42404484,
   "nouveautes": [
-    "Après le déverrouillage, c'est toujours l'accueil de Présence qui s'affiche, même si un autre écran d'accueil essaie de passer devant",
-    "Présence se relance toute seule après une mise à jour ou un arrêt par Android : la pause et l'anti-shorts ne s'éteignent plus en silence",
-    "L'installation est plus courte : chaque fonction demande son autorisation au moment où tu l'allumes, avec une explication claire",
-    "Un guide pas à pas, selon ta marque de téléphone, pour débloquer les réglages protégés d'Android",
-    "« Signaler un problème » prépare un rapport que tu lis en entier avant de l'envoyer"
+    "Les écrans de Présence par-dessus une app couvrent tout l'écran, jusque sous les boutons d'Android, et le retour fait ce qu'on attend",
+    "Ils suivent ce que tu ouvres : toucher une notification ferme « Déjà de retour ? », et une app protégée ne passe plus en douce derrière la pause",
+    "Un appel passe toujours devant",
+    "Une notification te prévient quand une nouvelle version est prête, avec un bouton « Installer »"
   ]
 }
