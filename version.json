@@ -1,12 +1,13 @@
 {
-  "versionCode": 50500,
-  "versionName": "5.5.0",
-  "sha256": "e58d420cebb50d5b6d81def5ac4327f745b6531508a2c8ce7f140b21b77273ca",
-  "taille": 41928901,
+  "versionCode": 50600,
+  "versionName": "5.6.0",
+  "sha256": "a7ba72a8caad5422e565680a6f17078eab67637e09dbd2873250a5f8c03f1742",
+  "taille": 42277040,
   "nouveautes": [
-    "Liseuse : le sommaire du livre, tes marque-pages et tes passages surlignés dans une même feuille, et la recherche dans tout le livre",
-    "Une réglette pour aller à n'importe quelle page, et « Revenir page 42 » après un saut",
-    "En bas de la page : le temps qu'il te reste avant la fin du chapitre, à ta vitesse de lecture (touche-le pour changer)",
-    "Touche le coin en haut à droite pour un marque-page ; « Surligner la phrase » dans la carte du mot ; la rotation peut se bloquer"
+    "Liseuse : « Aa » pour choisir la police (Literata, Atkinson Hyperlegible, Lexend pour la dyslexie, ou celle du livre), l'interligne, les marges et la justification",
+    "▶ Écouter : le livre lu à voix haute, phrase par phrase, même écran éteint, avec une minuterie pour s'endormir",
+    "Glisse le long du bord gauche pour régler la luminosité, jusqu'à plus sombre que d'habitude la nuit (deux touchers : automatique)",
+    "Pendant la lecture, les notifications attendent la fin du livre ; les appels et tes VIP passent toujours",
+    "Un objectif de lecture doux dans Livres, et une page de fin quand tu finis un livre, rangé dans « Mes trouvailles »"
   ]
 }
