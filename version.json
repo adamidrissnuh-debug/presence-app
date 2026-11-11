@@ -1,12 +1,9 @@
 {
-  "versionCode": 50701,
-  "versionName": "5.7.1",
-  "sha256": "ab1ae2cc3d2d1f5ba05efb31de88c70a585775bca14390aab5ee64792ac8a671",
-  "taille": 42404484,
+  "versionCode": 50702,
+  "versionName": "5.7.2",
+  "sha256": "a73c4c5c85fd455dc2784c45d797ab8147784c2f797439968f751331fbdc88f7",
+  "taille": 42427272,
   "nouveautes": [
-    "Les écrans de Présence par-dessus une app couvrent tout l'écran, jusque sous les boutons d'Android, et le retour fait ce qu'on attend",
-    "Ils suivent ce que tu ouvres : toucher une notification ferme « Déjà de retour ? », et une app protégée ne passe plus en douce derrière la pause",
-    "Un appel passe toujours devant",
-    "Une notification te prévient quand une nouvelle version est prête, avec un bouton « Installer »"
+    "Toutes les apps s'ouvrent d'un simple glissement vers le haut, d'où que tu partes sur l'accueil (même sur un widget) : le tiroir suit ton doigt, sans à-coups"
   ]
 }
