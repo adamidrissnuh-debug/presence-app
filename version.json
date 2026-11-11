@@ -1,9 +1,10 @@
 {
-  "versionCode": 50401,
-  "versionName": "5.4.1",
-  "sha256": "642db1777c11f283e0c202608e005947602b6043e797bcb148a50565b292655c",
-  "taille": 41774589,
+  "versionCode": 50402,
+  "versionName": "5.4.2",
+  "sha256": "33ae360296f53b8b746abeced4aaea8eda4f88488bb4b35cd72799f7e6b41695",
+  "taille": 41788317,
   "nouveautes": [
-    "Tes apps retournent dans leur cachette après 5 secondes sans toucher l'écran (au lieu de 15)"
+    "Liseuse : l'appui long choisit enfin le mot sous ton doigt, et non celui d'en dessous",
+    "Garde le doigt posé et glisse : le mot choisi suit ton doigt et s'écrit juste au-dessus ; la traduction s'ouvre quand tu lèves le doigt"
   ]
 }
