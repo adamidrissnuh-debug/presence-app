@@ -1,13 +1,13 @@
 {
-  "versionCode": 50600,
-  "versionName": "5.6.0",
-  "sha256": "a7ba72a8caad5422e565680a6f17078eab67637e09dbd2873250a5f8c03f1742",
-  "taille": 42277040,
+  "versionCode": 50700,
+  "versionName": "5.7.0",
+  "sha256": "9325fee46e5a91ead50211e11cbdaad41ab34dfa91777a43e5a930072c24a119",
+  "taille": 42393520,
   "nouveautes": [
-    "Liseuse : « Aa » pour choisir la police (Literata, Atkinson Hyperlegible, Lexend pour la dyslexie, ou celle du livre), l'interligne, les marges et la justification",
-    "▶ Écouter : le livre lu à voix haute, phrase par phrase, même écran éteint, avec une minuterie pour s'endormir",
-    "Glisse le long du bord gauche pour régler la luminosité, jusqu'à plus sombre que d'habitude la nuit (deux touchers : automatique)",
-    "Pendant la lecture, les notifications attendent la fin du livre ; les appels et tes VIP passent toujours",
-    "Un objectif de lecture doux dans Livres, et une page de fin quand tu finis un livre, rangé dans « Mes trouvailles »"
+    "Après le déverrouillage, c'est toujours l'accueil de Présence qui s'affiche, même si un autre écran d'accueil essaie de passer devant",
+    "Présence se relance toute seule après une mise à jour ou un arrêt par Android : la pause et l'anti-shorts ne s'éteignent plus en silence",
+    "L'installation est plus courte : chaque fonction demande son autorisation au moment où tu l'allumes, avec une explication claire",
+    "Un guide pas à pas, selon ta marque de téléphone, pour débloquer les réglages protégés d'Android",
+    "« Signaler un problème » prépare un rapport que tu lis en entier avant de l'envoyer"
   ]
 }
