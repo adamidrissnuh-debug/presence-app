@@ -1,9 +1,14 @@
 {
-  "versionCode": 50702,
-  "versionName": "5.7.2",
-  "sha256": "a73c4c5c85fd455dc2784c45d797ab8147784c2f797439968f751331fbdc88f7",
-  "taille": 42427272,
+  "versionCode": 50800,
+  "versionName": "5.8.0",
+  "sha256": "ad11568b228976c1e66d748dd367bb99384ca9bfb02ca267f56302b6f9b4ca9a",
+  "taille": 42517548,
   "nouveautes": [
-    "Toutes les apps s'ouvrent d'un simple glissement vers le haut, d'où que tu partes sur l'accueil (même sur un widget) : le tiroir suit ton doigt, sans à-coups"
+    "À l'installation, tu choisis ta spiritualité : Islam, ou Aucune (rien de religieux nulle part) ; modifiable dans les Réglages",
+    "Si tu utilisais déjà Présence, rien ne change : la prière, les adhkar et le Ramadan restent là",
+    "Une aide intégrée (Réglages › Aide) : urgences, autorisations, confidentialité, avec une recherche",
+    "Les premiers jours, chaque écran dit ce qui va apparaître ; « Voir avec des exemples » montre l'app remplie, sans toucher à tes données",
+    "Plus lisible : meilleurs contrastes, texte agrandi qui ne se coupe plus, chaque bouton nommé pour le lecteur d'écran",
+    "Sur tablette et en paysage, les écrans restent centrés et les onglets passent sur le côté"
   ]
 }
