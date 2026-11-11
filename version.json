@@ -1,10 +1,12 @@
 {
-  "versionCode": 50402,
-  "versionName": "5.4.2",
-  "sha256": "33ae360296f53b8b746abeced4aaea8eda4f88488bb4b35cd72799f7e6b41695",
-  "taille": 41788317,
+  "versionCode": 50500,
+  "versionName": "5.5.0",
+  "sha256": "e58d420cebb50d5b6d81def5ac4327f745b6531508a2c8ce7f140b21b77273ca",
+  "taille": 41928901,
   "nouveautes": [
-    "Liseuse : l'appui long choisit enfin le mot sous ton doigt, et non celui d'en dessous",
-    "Garde le doigt posé et glisse : le mot choisi suit ton doigt et s'écrit juste au-dessus ; la traduction s'ouvre quand tu lèves le doigt"
+    "Liseuse : le sommaire du livre, tes marque-pages et tes passages surlignés dans une même feuille, et la recherche dans tout le livre",
+    "Une réglette pour aller à n'importe quelle page, et « Revenir page 42 » après un saut",
+    "En bas de la page : le temps qu'il te reste avant la fin du chapitre, à ta vitesse de lecture (touche-le pour changer)",
+    "Touche le coin en haut à droite pour un marque-page ; « Surligner la phrase » dans la carte du mot ; la rotation peut se bloquer"
   ]
 }
