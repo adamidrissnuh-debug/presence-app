@@ -1,9 +1,10 @@
 {
-  "versionCode": 50801,
-  "versionName": "5.8.1",
-  "sha256": "667f409fcc049856cbd212611d3814d3987442310ffa9949b9aa3982e989c3ad",
-  "taille": 41392452,
+  "versionCode": 50901,
+  "versionName": "5.9.1",
+  "sha256": "ff27729ec8d1fcd993b1961c176d38572804b4276465f3a57ff90520a57ffedc",
+  "taille": 42077705,
   "nouveautes": [
-    "Le décor de ton univers se repeint moins souvent quand seuls les chiffres du jour changent : moins de batterie, même dessin"
+    "Le blocage des Shorts se met à jour tout seul quand YouTube ou Instagram changent",
+    "Un proche avec un iPhone peut rejoindre ton Cercle depuis une page web"
   ]
 }
