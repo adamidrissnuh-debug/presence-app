@@ -1,25 +1,53 @@
 {
-  "version": 1,
-  "date": "2026-11-11",
+  "version": 2,
+  "date": "2026-11-12",
   "minApp": 50901,
   "apps": [
     {
       "nom": "YouTube",
-      "paquets": ["com.google.android.youtube"],
+      "paquets": [
+        "com.google.android.youtube"
+      ],
       "diagnostic": "ids",
       "courtes": [
         {
-          "quoi": "yt", "reglage": "shortsYT", "action": "fermerOuCacher",
+          "quoi": "yt",
+          "reglage": "shortsYT",
+          "action": "fermerOuCacher",
           "si": [
-            { "vue": ["reel_recycler", "reel_player_page_container", "reel_watch_player", "reel_watch_fragment_root", "shorts_player_container", "reel_player_overlay_container"] }
+            {
+              "vue": [
+                "reel_recycler",
+                "reel_player_page_container",
+                "reel_watch_player",
+                "reel_watch_fragment_root",
+                "shorts_player_container",
+                "reel_player_overlay_container"
+              ]
+            }
           ]
         }
       ],
       "video": {
-        "lecteur": ["watch_player", "player_view", "watch_while_time_bar_view", "time_bar", "player_control_play_pause_replay_button"],
-        "dureeTotale": ["time_bar_total_time"],
-        "titre": ["video_title", "title_text", "title"],
-        "commandes": ["watch_player", "player_view"],
+        "lecteur": [
+          "watch_player",
+          "player_view",
+          "watch_while_time_bar_view",
+          "time_bar",
+          "player_control_play_pause_replay_button"
+        ],
+        "dureeTotale": [
+          "time_bar_total_time"
+        ],
+        "titre": [
+          "video_title",
+          "title_text",
+          "title"
+        ],
+        "commandes": [
+          "watch_player",
+          "player_view"
+        ],
         "parentsCliquables": 4,
         "barreDeLecture": "SeekBar",
         "parcours": 500
@@ -27,40 +55,92 @@
     },
     {
       "nom": "Instagram",
-      "paquets": ["com.instagram.android"],
+      "paquets": [
+        "com.instagram.android"
+      ],
       "diagnostic": "ids",
       "courtes": [
         {
-          "quoi": "ig", "reglage": "shortsIG", "action": "fermerOuCacher",
+          "quoi": "ig",
+          "reglage": "shortsIG",
+          "action": "fermerOuCacher",
           "si": [
-            { "vue": ["clips_viewer_view_pager", "clips_viewer_container", "clips_video_container", "clips_viewer_fragment"] }
+            {
+              "vue": [
+                "clips_viewer_view_pager",
+                "clips_viewer_container",
+                "clips_video_container",
+                "clips_viewer_fragment"
+              ]
+            }
           ]
         }
       ]
     },
     {
       "nom": "Snapchat",
-      "paquets": ["com.snapchat.android"],
+      "paquets": [
+        "com.snapchat.android"
+      ],
       "diagnostic": "ids+descriptions",
       "courtes": [
         {
-          "quoi": "snap", "reglage": "shortsSnap", "action": "fermerOuCacher",
+          "quoi": "snap",
+          "reglage": "shortsSnap",
+          "action": "fermerOuCacher",
           "si": [
-            { "vuePleinEcran": "spotlight", "hauteur": 0.6, "largeur": 0.8, "parcours": 900 },
-            { "onglet": "spotlight", "parcours": 700 }
+            {
+              "vuePleinEcran": "spotlight",
+              "hauteur": 0.6,
+              "largeur": 0.8,
+              "parcours": 900
+            },
+            {
+              "onglet": "spotlight",
+              "parcours": 700
+            },
+            {
+              "tous": [
+                {
+                  "vuePleinEcran": "opera_viewer",
+                  "hauteur": 0.6,
+                  "largeur": 0.8,
+                  "parcours": 900
+                },
+                {
+                  "vue": [
+                    "ngs_spotlight_icon_container"
+                  ]
+                },
+                {
+                  "vue": [
+                    "context_vertical_actions/context_vertical_action_comment",
+                    "context_vertical_actions/context_vertical_action_share",
+                    "context_vertical_actions/context_vertical_action_favorite"
+                  ]
+                }
+              ]
+            }
           ]
         }
       ]
     },
     {
       "nom": "Facebook",
-      "paquets": ["com.facebook.katana"],
+      "paquets": [
+        "com.facebook.katana"
+      ],
       "diagnostic": "ids+descriptions",
       "courtes": [
         {
-          "quoi": "fb", "reglage": "shortsFB", "action": "fermerOuCacher",
+          "quoi": "fb",
+          "reglage": "shortsFB",
+          "action": "fermerOuCacher",
           "si": [
-            { "onglet": "reels", "parcours": 700 }
+            {
+              "onglet": "reels",
+              "parcours": 700
+            }
           ]
         }
       ]
@@ -69,33 +149,101 @@
   "onglets": {
     "marge": 30,
     "parents": 3,
-    "negations": ["not selected", "unselected", "non sélectionné", "non selectionne"],
-    "selectionneContient": [", selected", ", sélectionné"],
-    "selectionneFinit": [" selected", " sélectionné"]
+    "negations": [
+      "not selected",
+      "unselected",
+      "non sélectionné",
+      "non selectionne"
+    ],
+    "selectionneContient": [
+      ", selected",
+      ", sélectionné"
+    ],
+    "selectionneFinit": [
+      " selected",
+      " sélectionné"
+    ]
   },
   "navigateurs": [
-    { "paquet": "com.android.chrome", "barre": ["url_bar"] },
-    { "paquet": "com.brave.browser", "barre": ["url_bar"] },
-    { "paquet": "com.microsoft.emmx", "barre": ["url_bar"] },
-    { "paquet": "org.mozilla.firefox", "barre": ["mozac_browser_toolbar_url_view"] },
-    { "paquet": "com.sec.android.app.sbrowser", "barre": ["location_bar_edit_text"] },
-    { "paquet": "com.opera.browser", "barre": ["url_field"] },
-    { "paquet": "com.duckduckgo.mobile.android", "barre": ["omnibarTextInput"] }
+    {
+      "paquet": "com.android.chrome",
+      "barre": [
+        "url_bar"
+      ]
+    },
+    {
+      "paquet": "com.brave.browser",
+      "barre": [
+        "url_bar"
+      ]
+    },
+    {
+      "paquet": "com.microsoft.emmx",
+      "barre": [
+        "url_bar"
+      ]
+    },
+    {
+      "paquet": "org.mozilla.firefox",
+      "barre": [
+        "mozac_browser_toolbar_url_view"
+      ]
+    },
+    {
+      "paquet": "com.sec.android.app.sbrowser",
+      "barre": [
+        "location_bar_edit_text"
+      ]
+    },
+    {
+      "paquet": "com.opera.browser",
+      "barre": [
+        "url_field"
+      ]
+    },
+    {
+      "paquet": "com.duckduckgo.mobile.android",
+      "barre": [
+        "omnibarTextInput"
+      ]
+    }
   ],
   "web": {
-    "quoi": "web", "reglage": "shortsWeb", "action": "fermer", "longueurMin": 3,
-    "contient": ["youtube.com/shorts", "instagram.com/reel", "tiktok.com/", "facebook.com/reel", "snapchat.com/spotlight"]
+    "quoi": "web",
+    "reglage": "shortsWeb",
+    "action": "fermer",
+    "longueurMin": 3,
+    "contient": [
+      "youtube.com/shorts",
+      "instagram.com/reel",
+      "tiktok.com/",
+      "facebook.com/reel",
+      "snapchat.com/spotlight"
+    ]
   },
   "fils": [
-    "com.google.android.youtube", "com.instagram.android", "com.snapchat.android", "com.facebook.katana", "com.zhiliaoapp.musically",
-    "com.ss.android.ugc.trill", "com.twitter.android", "com.reddit.frontpage", "com.pinterest", "com.linkedin.android",
-    "com.instagram.barcelona", "com.facebook.lite", "tv.twitch.android.app"
+    "com.google.android.youtube",
+    "com.instagram.android",
+    "com.snapchat.android",
+    "com.facebook.katana",
+    "com.zhiliaoapp.musically",
+    "com.ss.android.ugc.trill",
+    "com.twitter.android",
+    "com.reddit.frontpage",
+    "com.pinterest",
+    "com.linkedin.android",
+    "com.instagram.barcelona",
+    "com.facebook.lite",
+    "tv.twitch.android.app"
   ],
   "motifs": {
     "duree": "(?:(\\d{1,2}):)?(\\d{1,2}):(\\d{2})",
     "horloge": "^\\s*(?:\\d{1,2}:)?\\d{1,2}:\\d{2}\\s*$",
     "paire": "\\d{1,2}(?::\\d{2}){1,2}\\s*(?:/|sur|of|de|sobre)\\s*(\\d{1,2}(?::\\d{2}){1,2})",
     "parlee": "(\\d+)\\s*(heures?|hours?|minutes?|secondes?|seconds?)\\b",
-    "ignorer": ["il y a[^,–—\\-·]*", "[^,–—\\-·]*\\bago\\b"]
+    "ignorer": [
+      "il y a[^,–—\\-·]*",
+      "[^,–—\\-·]*\\bago\\b"
+    ]
   }
 }
