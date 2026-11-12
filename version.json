@@ -1,11 +1,10 @@
 {
-  "versionCode": 60000,
-  "versionName": "6.0.0",
-  "sha256": "05aebf21a4e1604581785a4c2427c254d668daddc7d33ea0728730e88577a84b",
-  "taille": 43174457,
+  "versionCode": 60100,
+  "versionName": "6.1.0",
+  "sha256": "24cd7b53071b95a613849db7bc6896ebf664c5499ed55b98745f33dee58f08c6",
+  "taille": 43270761,
   "nouveautes": [
-    "Présence parle anglais et arabe partout : l'accueil, Ma journée, le Cercle, les livres, les écrans de pause et les notifications",
-    "Dans la liseuse, un mot se traduit vers la langue de l'interface ; s'il y est déjà, tu vois sa définition",
-    "Les versets, hadiths, sagesses et rencontres restent dans leur langue et gardent leur sens de lecture"
+    "Dès la première minute, Présence lit ce qu'Android a déjà noté de ta semaine : ton temps d'écran, tes déverrouillages et les apps qui te happent, sans rien envoyer hors du téléphone.",
+    "Ensuite, Ma journée et Progrès comparent ta moyenne des 7 derniers jours à ce point de départ, honnêtement, que ce soit mieux ou moins bien."
   ]
 }
