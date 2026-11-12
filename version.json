@@ -1,11 +1,10 @@
 {
-  "versionCode": 60201,
-  "versionName": "6.2.1",
-  "sha256": "1d0c9a11441f0a818cc4e6942c2aaaee31e05d4b5d2146b8de05ad2c2bf131a7",
-  "taille": 43419977,
+  "versionCode": 60202,
+  "versionName": "6.2.2",
+  "sha256": "9dd96bfc5376d72c30a8254b1e6017d8f0d7d74eac1f97a283379b661fb39fc1",
+  "taille": 43421017,
   "nouveautes": [
-    "Ton écran verrouillé montre ta journée : le temps passé loin du téléphone, tes déverrouillages et tes feuilles, sous l'horloge d'Android ; si ton téléphone impose son propre fond, « Tout va bien ? » te dit comment le désactiver.",
-    "Nouveau, à activer dans Avancé › Accueil : une page Présence au réveil, par-dessus l'écran verrouillé, qu'on glisse vers le haut pour déverrouiller.",
-    "Installer une app (un APK téléchargé) n'est plus jamais bloqué par le téléphone essentiel, y compris sur Xiaomi, Redmi et POCO."
+    "Toute app capable d'installer une application n'est plus jamais bloquée par le téléphone essentiel",
+    "« Signaler un problème » montre les derniers écrans vus par l'anti-shorts, pour corriger Snapchat, Instagram ou YouTube à distance"
   ]
 }
