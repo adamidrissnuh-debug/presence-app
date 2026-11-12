@@ -1,12 +1,11 @@
 {
-  "versionCode": 60200,
-  "versionName": "6.2.0",
-  "sha256": "67a0e907cdb7331a503ddefccf8113025609361ad013609587ab9e31f0dbdf95",
-  "taille": 43376845,
+  "versionCode": 60201,
+  "versionName": "6.2.1",
+  "sha256": "1d0c9a11441f0a818cc4e6942c2aaaee31e05d4b5d2146b8de05ad2c2bf131a7",
+  "taille": 43419977,
   "nouveautes": [
-    "Une installation plus courte, avec une seule vraie décision : les 3 apps qui te happent, proposées d'après ta vraie semaine ; le reste de Présence se découvre ensuite, une fonction par jour, sur Ma journée.",
-    "Après quelques jours difficiles, Ma journée propose doucement « 3 jours plus doux » : une cible à ta portée ou un focus court chaque jour, sans jamais desserrer tes réglages.",
-    "La promesse de Présence, « Moins de shorts, plus de vie, en famille. », et un coin « Découvrir » pour tout ce qui vient en plus.",
-    "Les Réglages du téléphone et l'écran des apps récentes ne sont plus jamais bloqués"
+    "Ton écran verrouillé montre ta journée : le temps passé loin du téléphone, tes déverrouillages et tes feuilles, sous l'horloge d'Android ; si ton téléphone impose son propre fond, « Tout va bien ? » te dit comment le désactiver.",
+    "Nouveau, à activer dans Avancé › Accueil : une page Présence au réveil, par-dessus l'écran verrouillé, qu'on glisse vers le haut pour déverrouiller.",
+    "Installer une app (un APK téléchargé) n'est plus jamais bloqué par le téléphone essentiel, y compris sur Xiaomi, Redmi et POCO."
   ]
 }
