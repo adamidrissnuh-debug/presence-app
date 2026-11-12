@@ -1,11 +1,10 @@
 {
-  "versionCode": 60301,
-  "versionName": "6.3.1",
-  "sha256": "967c5b76dd82bb7661e37b17ae583f6a280e9ea320a21680472b4d59cc0f0bed",
-  "taille": 43816280,
+  "versionCode": 60302,
+  "versionName": "6.3.2",
+  "sha256": "aac0d280b47408c4c4d9096fce2ce53ea5543aabef05ee4a491a9a90d29b1daf",
+  "taille": 43820876,
   "nouveautes": [
-    "« Quoi de neuf » s'affiche bien après la mise à jour (la 6.3.0 le perdait), et reste dans les Réglages et dans Découvrir pour le revoir quand tu veux",
-    "Le bouton ▶ des sons doux joue toujours le son, et te dit si le téléphone est en vibreur, en silencieux ou le volume à zéro",
-    "Samsung : plus de faux « à réparer » pour l'écran verrouillé"
+    "« Quoi de neuf » s'ouvre au retour sur l'accueil après la mise à jour, et se retrouve à tout moment dans Réglages › Mon téléphone",
+    "La vibration douce se sent vraiment (elle était trop faible pour certains vibreurs, dont ceux des Redmi), et l'écran explique quoi régler si rien ne vibre"
   ]
 }
