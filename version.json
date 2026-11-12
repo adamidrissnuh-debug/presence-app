@@ -1,10 +1,11 @@
 {
-  "versionCode": 50901,
-  "versionName": "5.9.1",
-  "sha256": "ff27729ec8d1fcd993b1961c176d38572804b4276465f3a57ff90520a57ffedc",
-  "taille": 42077705,
+  "versionCode": 60000,
+  "versionName": "6.0.0",
+  "sha256": "05aebf21a4e1604581785a4c2427c254d668daddc7d33ea0728730e88577a84b",
+  "taille": 43174457,
   "nouveautes": [
-    "Le blocage des Shorts se met à jour tout seul quand YouTube ou Instagram changent",
-    "Un proche avec un iPhone peut rejoindre ton Cercle depuis une page web"
+    "Présence parle anglais et arabe partout : l'accueil, Ma journée, le Cercle, les livres, les écrans de pause et les notifications",
+    "Dans la liseuse, un mot se traduit vers la langue de l'interface ; s'il y est déjà, tu vois sa définition",
+    "Les versets, hadiths, sagesses et rencontres restent dans leur langue et gardent leur sens de lecture"
   ]
 }
