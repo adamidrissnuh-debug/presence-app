@@ -1,9 +1,12 @@
 {
-  "versionCode": 60101,
-  "versionName": "6.1.1",
-  "sha256": "5da382022b61a19c6d5b7dd383dc2db35491f7b8f358c357bcc19a687d24ace9",
-  "taille": 43276221,
+  "versionCode": 60200,
+  "versionName": "6.2.0",
+  "sha256": "67a0e907cdb7331a503ddefccf8113025609361ad013609587ab9e31f0dbdf95",
+  "taille": 43376845,
   "nouveautes": [
+    "Une installation plus courte, avec une seule vraie décision : les 3 apps qui te happent, proposées d'après ta vraie semaine ; le reste de Présence se découvre ensuite, une fonction par jour, sur Ma journée.",
+    "Après quelques jours difficiles, Ma journée propose doucement « 3 jours plus doux » : une cible à ta portée ou un focus court chaque jour, sans jamais desserrer tes réglages.",
+    "La promesse de Présence, « Moins de shorts, plus de vie, en famille. », et un coin « Découvrir » pour tout ce qui vient en plus.",
     "Les Réglages du téléphone et l'écran des apps récentes ne sont plus jamais bloqués"
   ]
 }
