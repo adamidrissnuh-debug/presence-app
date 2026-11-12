@@ -1,10 +1,13 @@
 {
-  "versionCode": 60202,
-  "versionName": "6.2.2",
-  "sha256": "9dd96bfc5376d72c30a8254b1e6017d8f0d7d74eac1f97a283379b661fb39fc1",
-  "taille": 43421017,
+  "versionCode": 60300,
+  "versionName": "6.3.0",
+  "sha256": "c89904b028c4053b1671d74416afc7b7e1b4477dd8e0164203961284de55b823",
+  "taille": 43805260,
   "nouveautes": [
-    "Toute app capable d'installer une application n'est plus jamais bloquée par le téléphone essentiel",
-    "« Signaler un problème » montre les derniers écrans vus par l'anti-shorts, pour corriger Snapchat, Instagram ou YouTube à distance"
+    "Une prise en main illustrée : six petits écrans expliquent pourquoi le téléphone happe, ce que ça coûte et ce que la recherche montre quand on réduit, chacun avec sa source. Tu peux la revoir quand tu veux, avec tes réglages actuels.",
+    "Notifications calmes, dans les Réglages : les apps se taisent et n'allument plus l'écran, tes proches passent avec un son doux et une vibration douce ; le reste arrive groupé 3 fois par jour.",
+    "« Ce que dit la science » dans Découvrir, une phrase douce sous l'heure au déverrouillage, et plus de chiffre de feuilles : Présence montre ton temps loin du téléphone.",
+    "« Tout va bien ? » repère le carrousel de fonds d'écran (Xiaomi, Glance…) qui remplace ton écran verrouillé, et ouvre sa page pour le désactiver",
+    "L'Arbre d'or n'a plus aucune croix : losanges de lumière et lanternes à la place"
   ]
 }

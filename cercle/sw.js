@@ -3,8 +3,8 @@
  * Construit par vite.cercle.config.ts, qui remplace la version et la liste des fichiers.
  * Il ne touche jamais aux requêtes vers le relais (une autre origine) : les messages ne passent pas par lui.
  */
-const VERSION = "cercle-8e3ab1793e95";
-const FICHIERS = ["./","./index.html","./apple-touch-icon.png","./icone-192.png","./icone-512.png","./icone.svg","./manifest.webmanifest","./assets/index-CZbH8a93.js","./assets/index-iXjd1RgP.css"];
+const VERSION = "cercle-b83129d4b99c";
+const FICHIERS = ["./","./index.html","./apple-touch-icon.png","./icone-192.png","./icone-512.png","./icone.svg","./manifest.webmanifest","./assets/index-CzdvJ2YE.js","./assets/index-iXjd1RgP.css"];
 
 self.addEventListener('install', (ev) => {
   ev.waitUntil(caches.open(VERSION).then((c) => c.addAll(FICHIERS)).then(() => self.skipWaiting()));
