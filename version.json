@@ -1,10 +1,9 @@
 {
-  "versionCode": 60304,
-  "versionName": "6.3.4",
-  "sha256": "c5f607ce5b5fb4d8ae4b5ffaea2f50e8b14292cdc39a08b8f038a6f5ca2a36e2",
-  "taille": 43862540,
+  "versionCode": 60305,
+  "versionName": "6.3.5",
+  "sha256": "25517f6dc597483357efdfc68be41ca6c9cce14856e8c2481b5629c6d41cb71c",
+  "taille": 43863364,
   "nouveautes": [
-    "Quand un proche t'encourage, ce n'est plus une simple notification : un petit moment s'affiche sur ton accueil, son emoji qui monte, ses mots et une vibration douce (une seule fois, et jamais la nuit ni pendant un focus)",
-    "« Signaler un problème » garde les 6 derniers écrans de chaque app surveillée par l'anti-shorts, avec ce que Présence a décidé : de quoi corriger Snapchat à distance, sans nouvelle version"
+    "Carnet : garder ou fermer une note ne ferme plus toute l'app (trouvé par la simulation des parcours)"
   ]
 }
