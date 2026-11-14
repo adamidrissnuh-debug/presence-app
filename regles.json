@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "date": "2026-11-12",
-  "minApp": 50901,
+  "version": 3,
+  "date": "2026-11-14",
+  "minApp": 60303,
   "apps": [
     {
       "nom": "YouTube",
@@ -117,6 +117,32 @@
                     "context_vertical_actions/context_vertical_action_comment",
                     "context_vertical_actions/context_vertical_action_share",
                     "context_vertical_actions/context_vertical_action_favorite"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "quoi": "snapStories",
+          "reglage": "shortsSnapStories",
+          "action": "fermerOuCacher",
+          "si": [
+            {
+              "tous": [
+                {
+                  "vuePleinEcran": "opera_viewer",
+                  "hauteur": 0.6,
+                  "largeur": 0.8,
+                  "parcours": 900
+                },
+                {
+                  "vue": [
+                    "df_large_story",
+                    "df_small_story",
+                    "df_story",
+                    "discover_feed_recycler_view",
+                    "df_recycler_view"
                   ]
                 }
               ]
