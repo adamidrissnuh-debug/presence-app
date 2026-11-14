@@ -1,10 +1,10 @@
 {
-  "versionCode": 60302,
-  "versionName": "6.3.2",
-  "sha256": "aac0d280b47408c4c4d9096fce2ce53ea5543aabef05ee4a491a9a90d29b1daf",
-  "taille": 43820876,
+  "versionCode": 60303,
+  "versionName": "6.3.3",
+  "sha256": "b9ed9a90192ab82109aff86c6ef28007cf66f0b54339cbb253b92a662f4e263d",
+  "taille": 43827776,
   "nouveautes": [
-    "« Quoi de neuf » s'ouvre au retour sur l'accueil après la mise à jour, et se retrouve à tout moment dans Réglages › Mon téléphone",
-    "La vibration douce se sent vraiment (elle était trop faible pour certains vibreurs, dont ceux des Redmi), et l'écran explique quoi régler si rien ne vibre"
+    "Snapchat : les stories sont aussi bloquées (celles de l'onglet Stories), Spotlight toujours ; les snaps et messages reçus restent ouverts. Un réglage permet de rouvrir les stories, avec le délai habituel",
+    "« Tout va bien ? » : le démarrage automatique passe « à réparer » quand Android arrête Présence, et l'écran Présence au réveil dit quand Xiaomi le bloque, avec le bouton pour l'autoriser"
   ]
 }
