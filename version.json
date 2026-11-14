@@ -1,10 +1,10 @@
 {
-  "versionCode": 60303,
-  "versionName": "6.3.3",
-  "sha256": "b9ed9a90192ab82109aff86c6ef28007cf66f0b54339cbb253b92a662f4e263d",
-  "taille": 43827776,
+  "versionCode": 60304,
+  "versionName": "6.3.4",
+  "sha256": "c5f607ce5b5fb4d8ae4b5ffaea2f50e8b14292cdc39a08b8f038a6f5ca2a36e2",
+  "taille": 43862540,
   "nouveautes": [
-    "Snapchat : les stories sont aussi bloquées (celles de l'onglet Stories), Spotlight toujours ; les snaps et messages reçus restent ouverts. Un réglage permet de rouvrir les stories, avec le délai habituel",
-    "« Tout va bien ? » : le démarrage automatique passe « à réparer » quand Android arrête Présence, et l'écran Présence au réveil dit quand Xiaomi le bloque, avec le bouton pour l'autoriser"
+    "Quand un proche t'encourage, ce n'est plus une simple notification : un petit moment s'affiche sur ton accueil, son emoji qui monte, ses mots et une vibration douce (une seule fois, et jamais la nuit ni pendant un focus)",
+    "« Signaler un problème » garde les 6 derniers écrans de chaque app surveillée par l'anti-shorts, avec ce que Présence a décidé : de quoi corriger Snapchat à distance, sans nouvelle version"
   ]
 }
