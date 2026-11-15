@@ -1,14 +1,10 @@
 {
-  "versionCode": 60400,
-  "versionName": "6.4.0",
-  "sha256": "834d374190e839c4bf1b09253fc22038d6cb05ded7efc5e314296118e1774673",
-  "taille": 44084360,
+  "versionCode": 60401,
+  "versionName": "6.4.1",
+  "sha256": "fdcbbfdfc5c531435f9cfad58df76486a74a2b49c28102f469f26347b27ff918",
+  "taille": 44086332,
   "nouveautes": [
-    "Un seul onglet « Aujourd'hui » : un grand chiffre, ton temps loin du téléphone sans compter la nuit. Le détail se déplie quand tu veux, et Livres est dans le Carnet.",
-    "Les moments : quand un proche t'encourage, te laisse un mot, ou quand ta lettre arrive, un petit moment s'affiche sur ton accueil au lieu d'une notification.",
-    "Quand l'envie arrive, ta pause te propose ce que tu aimerais faire à la place (appeler quelqu'un, lire, respirer…), avec un bouton pour le lancer. Et chaque jour de la semaine, une idée à découvrir.",
-    "Une seule fiche par app : protégée, à créneaux ou dans le téléphone essentiel, elle dit la même chose partout ; une app fermée jusqu'à 19 h ne s'ouvre plus pour se faire refermer",
-    "Tes apps sont visibles sur l'accueil par défaut (les ranger dans le décor reste possible), plus aucun bouton n'agit pour ton cercle sans confirmation, et le focus en cours se voit en haut d'Aujourd'hui",
-    "Un seul écran « Notifications » (mode calme, VIP, résumé, réponse automatique) et moins de doublons partout"
+    "Le Cercle en direct : un encouragement, un mot, une lettre arrivent en quelques secondes (avant : jusqu'à 15 minutes, ou en ouvrant Présence)",
+    "Tes apps attendent de nouveau cachées dans le décor de l'accueil (sous la pierre…) ; « Ranger » permet toujours de les montrer"
   ]
 }
