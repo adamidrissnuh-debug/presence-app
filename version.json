@@ -1,10 +1,9 @@
 {
-  "versionCode": 60402,
-  "versionName": "6.4.2",
-  "sha256": "74bb861b46af0f78c0b74956eacb6d9d128996dd440ff23685a55c75dddd4ebc",
-  "taille": 44087636,
+  "versionCode": 60403,
+  "versionName": "6.4.3",
+  "sha256": "d9fec3b959ca3628439790119cea615874e38b7c04a3ccc6566b7cbe6a5ce975",
+  "taille": 38042594,
   "nouveautes": [
-    "Une app ajoutée au téléphone essentiel ou réactivée apparaît dès la fin du délai, sans avoir à ouvrir Présence (avant : elle restait cachée)",
-    "Une app qu'on vient d'installer apparaît dans le tiroir même si le téléphone ne l'a pas signalée (la liste se relit toute seule)"
+    "Présence est plus fluide : l'app installée est maintenant la version optimisée (avant, une version de développement, qu'Android fait tourner bien plus lentement)"
   ]
 }
