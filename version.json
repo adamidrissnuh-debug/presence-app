@@ -1,12 +1,13 @@
 {
-  "versionCode": 60500,
-  "versionName": "6.5.0",
-  "sha256": "8953ab012753b38263ca7111481624667f5fd6604152e4480144d402561197b3",
-  "taille": 38101854,
+  "versionCode": 60600,
+  "versionName": "6.6.0",
+  "sha256": "87f750ca280dbc687efe87326c809c8f4c3a617d1ecebaf1727747e00a0b0f18",
+  "taille": 38403926,
   "nouveautes": [
-    "Présence prend les couleurs de ton univers : toute l'app, en clair comme en sombre, avec les titres élégants de la pause ; les widgets de l'accueil passent sur du verre teinté.",
-    "Des Réglages plus simples : quatre pages claires (ce qui me freine, mon accueil, mes proches, mon téléphone), « Tout va bien ? » résumé en une ligne, et les mises à jour vérifiées toutes seules.",
-    "Tout se fait d'une main : la recherche des apps est en bas, les boutons de l'accueil ont un nom, et chaque toucher répond (un message, une petite vibration).",
-    "Le Cercle plus clair : plus besoin d'actualiser (il est en direct), ses réglages dans le menu ⋯, et chaque proche sur une carte plus visuelle"
+    "Ta semaine, racontée : le dimanche, Présence compare ta semaine à celle d'avant elle (temps, déverrouillages, shorts évités) et te dit ce que tu as fait à la place quand l'envie est venue.",
+    "La pause des yeux : après 20 minutes d'écran, regarde au loin 20 secondes (règle recommandée par les ophtalmologistes). Et après 45 minutes sans pause, une de tes idées te revient.",
+    "Présence tient sur ton téléphone : un assistant pas à pas règle Xiaomi (et les autres marques), et l'accueil te prévient tout de suite si le téléphone l'a arrêtée.",
+    "Présence propose, tu dis oui d'un toucher : protéger une app qui te happe, un objectif qui baisse tout seul, un moment sans téléphone chaque soir, la nuit à ta vraie heure, calmer les apps qui dérangent",
+    "Un objectif de temps d'écran total, l'heure où tu poses ton téléphone le soir, le test d'attention avant/après, et ta carte du mois à garder ou à envoyer"
   ]
 }
