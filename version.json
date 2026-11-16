@@ -1,9 +1,10 @@
 {
-  "versionCode": 60403,
-  "versionName": "6.4.3",
-  "sha256": "d9fec3b959ca3628439790119cea615874e38b7c04a3ccc6566b7cbe6a5ce975",
-  "taille": 38042594,
+  "versionCode": 60404,
+  "versionName": "6.4.4",
+  "sha256": "e13a2023d866568c8040c0b85c1d3889450af96588eeaab38deaa6952c7ac4ec",
+  "taille": 38043438,
   "nouveautes": [
-    "Présence est plus fluide : l'app installée est maintenant la version optimisée (avant, une version de développement, qu'Android fait tourner bien plus lentement)"
+    "Un short fermé ou caché ne s'entend plus : le son reste coupé et la vidéo en pause tant que tu es sur les shorts (même en glissant de l'un à l'autre), et revient quand tu les quittes",
+    "La pause d'un short n'arrête plus par erreur la musique d'une autre app"
   ]
 }
