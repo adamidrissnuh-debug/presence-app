@@ -1,13 +1,11 @@
 {
-  "versionCode": 60600,
-  "versionName": "6.6.0",
-  "sha256": "87f750ca280dbc687efe87326c809c8f4c3a617d1ecebaf1727747e00a0b0f18",
-  "taille": 38403926,
+  "versionCode": 60700,
+  "versionName": "6.7.0",
+  "sha256": "1465661eef9d4d2d6658fb4f678562a57024e992e77b422b8ee7a15d50b7a1eb",
+  "taille": 38523066,
   "nouveautes": [
-    "Ta semaine, racontée : le dimanche, Présence compare ta semaine à celle d'avant elle (temps, déverrouillages, shorts évités) et te dit ce que tu as fait à la place quand l'envie est venue.",
-    "La pause des yeux : après 20 minutes d'écran, regarde au loin 20 secondes (règle recommandée par les ophtalmologistes). Et après 45 minutes sans pause, une de tes idées te revient.",
-    "Présence tient sur ton téléphone : un assistant pas à pas règle Xiaomi (et les autres marques), et l'accueil te prévient tout de suite si le téléphone l'a arrêtée.",
-    "Présence propose, tu dis oui d'un toucher : protéger une app qui te happe, un objectif qui baisse tout seul, un moment sans téléphone chaque soir, la nuit à ta vraie heure, calmer les apps qui dérangent",
-    "Un objectif de temps d'écran total, l'heure où tu poses ton téléphone le soir, le test d'attention avant/après, et ta carte du mois à garder ou à envoyer"
+    "« Tu vas faire quoi ? » : avant de poser ton téléphone (deux touchers sur l'accueil, le bouton « Poser mon téléphone » ou la tuile du volet rapide), dis ce que tu vas faire, et il se verrouille.",
+    "Au retour, après 10 minutes ou plus, une seule question d'un toucher : « Depuis 18 h 05, tu as fait quoi ? ». « Passer » est toujours là, et personne ne voit ta réponse.",
+    "Ta semaine montre aussi ta vie sans le téléphone : chaque activité, et tous tes écrans réunis (téléphone + ordinateur + télé)."
   ]
 }
