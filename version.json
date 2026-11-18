@@ -1,11 +1,12 @@
 {
-  "versionCode": 60700,
-  "versionName": "6.7.0",
-  "sha256": "1465661eef9d4d2d6658fb4f678562a57024e992e77b422b8ee7a15d50b7a1eb",
-  "taille": 38523066,
+  "versionCode": 60800,
+  "versionName": "6.8.0",
+  "sha256": "1f5aa8e0e337d6952f72e619f86cfd28b44bbd65399edc1d07cdd1240d83000c",
+  "taille": 38767039,
   "nouveautes": [
-    "« Tu vas faire quoi ? » : avant de poser ton téléphone (deux touchers sur l'accueil, le bouton « Poser mon téléphone » ou la tuile du volet rapide), dis ce que tu vas faire, et il se verrouille.",
-    "Au retour, après 10 minutes ou plus, une seule question d'un toucher : « Depuis 18 h 05, tu as fait quoi ? ». « Passer » est toujours là, et personne ne voit ta réponse.",
-    "Ta semaine montre aussi ta vie sans le téléphone : chaque activité, et tous tes écrans réunis (téléphone + ordinateur + télé)."
+    "La liseuse adapte les PDF à ton écran, comme une vraie liseuse : plus besoin de zoomer. Et elle traduit ton livre : page par page, en bilingue, ou en entier.",
+    "Les stories de Snapchat et les shorts sont cachés sur tout l'écran et sans le son, dès qu'ils s'ouvrent.",
+    "Si tu as choisi l'islam dans Présence : au réveil, avant et après la prière, avant de dormir, le hadith ou le dhikr du moment, avec « Fait » ou « Pas cette fois ». Et « Vois la chance que tu as ».",
+    "Le premier lancement est guidé pas à pas jusqu'à « Tout est prêt », avec des dessins selon la marque du téléphone pour « Autoriser les paramètres restreints »."
   ]
 }

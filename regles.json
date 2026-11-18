@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "date": "2026-11-14",
-  "minApp": 60303,
+  "version": 4,
+  "date": "2026-11-18",
+  "minApp": 60800,
   "apps": [
     {
       "nom": "YouTube",
@@ -127,6 +127,26 @@
           "quoi": "snapStories",
           "reglage": "shortsSnapStories",
           "action": "fermerOuCacher",
+          "amorce": [
+            {
+              "tous": [
+                {
+                  "vue": [
+                    "opera_viewer"
+                  ]
+                },
+                {
+                  "vue": [
+                    "df_large_story",
+                    "df_small_story",
+                    "df_story",
+                    "discover_feed_recycler_view",
+                    "df_recycler_view"
+                  ]
+                }
+              ]
+            }
+          ],
           "si": [
             {
               "tous": [
