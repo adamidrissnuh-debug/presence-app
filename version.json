@@ -1,11 +1,9 @@
 {
-  "versionCode": 70003,
-  "versionName": "7.0.3",
-  "sha256": "75f28858d73c9ef74a6a2d99d271acbab3dfdf4e2cbf53d34e23add2a65c7e06",
-  "taille": 40817940,
+  "versionCode": 70004,
+  "versionName": "7.0.4",
+  "sha256": "f7ec64d67b9d89b6dcb49ea8a401aacdbd5e4dcc02c0cea16173c828cb9345ed",
+  "taille": 40818032,
   "nouveautes": [
-    "TikTok : la vidéo est cachée dès l'ouverture",
-    "Instagram : la carte suit le reel du fil sans décalage, et ne couvre plus les barres du haut et du bas",
-    "Liseuse : chaque schéma a sa propre page, en grand, sans texte autour"
+    "Instagram : la carte « Reel masqué » ne reste plus affichée après avoir quitté l'app"
   ]
 }
