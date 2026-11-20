@@ -1,9 +1,10 @@
 {
-  "versionCode": 70004,
-  "versionName": "7.0.4",
-  "sha256": "f7ec64d67b9d89b6dcb49ea8a401aacdbd5e4dcc02c0cea16173c828cb9345ed",
-  "taille": 40818032,
+  "versionCode": 70005,
+  "versionName": "7.0.5",
+  "sha256": "3275e4ad9ad5b6bfb0b173d8295837ab514bfd00213193b26d9cef5fe32b1321",
+  "taille": 40819668,
   "nouveautes": [
-    "Instagram : la carte « Reel masqué » ne reste plus affichée après avoir quitté l'app"
+    "Instagram : en défilant, la carte couvre la vidéo sans en laisser dépasser",
+    "TikTok, Snap : les boutons d'Android restent visibles sous le voile"
   ]
 }
