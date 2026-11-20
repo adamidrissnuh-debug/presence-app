@@ -1,9 +1,11 @@
 {
-  "versionCode": 70002,
-  "versionName": "7.0.2",
-  "sha256": "0bdb23788bb8639859ec9ea97bdfe6cf17f6519228ab546e92acebcfb82fe8f4",
-  "taille": 40816764,
+  "versionCode": 70003,
+  "versionName": "7.0.3",
+  "sha256": "75f28858d73c9ef74a6a2d99d271acbab3dfdf4e2cbf53d34e23add2a65c7e06",
+  "taille": 40817940,
   "nouveautes": [
-    "Les règles anti-shorts sont vérifiées dès que Présence redémarre après une mise à jour, sans avoir à ouvrir l'app"
+    "TikTok : la vidéo est cachée dès l'ouverture",
+    "Instagram : la carte suit le reel du fil sans décalage, et ne couvre plus les barres du haut et du bas",
+    "Liseuse : chaque schéma a sa propre page, en grand, sans texte autour"
   ]
 }

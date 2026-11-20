@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "date": "2026-11-20",
   "minApp": 70000,
   "apps": [
@@ -156,7 +156,9 @@
           "zoneSauf": [
             "bottom_sheet_container",
             "layout_comment_thread_edittext",
-            "comment_composer_parent"
+            "comment_composer_parent",
+            "tab_bar",
+            "main_feed_action_bar"
           ],
           "si": [
             {
