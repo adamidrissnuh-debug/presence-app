@@ -1,12 +1,9 @@
 {
-  "versionCode": 70001,
-  "versionName": "7.0.1",
-  "sha256": "71c8124731435fb02271c49683565fe20e228e007ac5868c40fc71235f36b52f",
-  "taille": 40817168,
+  "versionCode": 70002,
+  "versionName": "7.0.2",
+  "sha256": "0bdb23788bb8639859ec9ea97bdfe6cf17f6519228ab546e92acebcfb82fe8f4",
+  "taille": 40816764,
   "nouveautes": [
-    "Les nouvelles règles anti-shorts arrivent dès la mise à jour (reels du fil Instagram, TikTok)",
-    "Réglages : « Écrans » au-dessus de Téléphone, Ordinateur, Télé",
-    "Liseuse : schémas entiers, et « Texte adapté » en un toucher depuis la page originale",
-    "Écran verrouillé : « Posé depuis… », qui repart à chaque déverrouillage"
+    "Les règles anti-shorts sont vérifiées dès que Présence redémarre après une mise à jour, sans avoir à ouvrir l'app"
   ]
 }
