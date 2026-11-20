@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "date": "2026-11-18",
-  "minApp": 60800,
+  "version": 5,
+  "date": "2026-11-20",
+  "minApp": 70000,
   "apps": [
     {
       "nom": "YouTube",
@@ -50,7 +50,34 @@
         ],
         "parentsCliquables": 4,
         "barreDeLecture": "SeekBar",
-        "parcours": 500
+        "parcours": 500,
+        "deplie": [
+          "watch_player",
+          "player_view",
+          "watch_panel",
+          "video_metadata_layout",
+          "simple_watch_action_bar"
+        ],
+        "replie": [
+          "modern_miniplayer_close",
+          "modern_miniplayer_overlay_action_button",
+          "modern_miniplayer_subtitle_bar",
+          "modern_miniplayer_subtitle_text",
+          "floaty_bar_controls_view",
+          "floaty_bar_time_bar_view",
+          "modern_miniplayer_*",
+          "floaty_bar_*"
+        ],
+        "dansFil": [
+          "inline_player_container"
+        ],
+        "pub": [
+          "countdown_badge",
+          "ad_progress_text",
+          "skip_ad_button",
+          "ad_badge",
+          "player_learn_more_button"
+        ]
       }
     },
     {
@@ -74,6 +101,83 @@
               ]
             }
           ]
+        },
+        {
+          "quoi": "igStories",
+          "reglage": "shortsIGStories",
+          "action": "fermerOuCacher",
+          "toucher": [
+            "reel_ring",
+            "overlay_stories_tray_container",
+            "reels_tray_container",
+            "highlights_reel_tray_recycler_view"
+          ],
+          "amorce": [
+            {
+              "tous": [
+                {
+                  "vue": [
+                    "reel_viewer_root",
+                    "reel_viewer_media_container",
+                    "reel_viewer_texture_view",
+                    "reel_viewer_header",
+                    "reel_viewer_progress_bar"
+                  ]
+                },
+                {
+                  "vue": [
+                    "overlay_stories_tray_container",
+                    "reels_tray_container",
+                    "highlights_reel_tray_recycler_view",
+                    "reel_ring",
+                    "row_feed_profile_header",
+                    "main_feed_action_bar"
+                  ]
+                }
+              ]
+            }
+          ],
+          "si": [
+            {
+              "vuePleinEcran": "reel_viewer",
+              "hauteur": 0.6,
+              "largeur": 0.8,
+              "parcours": 900
+            }
+          ]
+        },
+        {
+          "quoi": "igFil",
+          "reglage": "shortsIGFil",
+          "action": "cacherZone",
+          "zone": [
+            "video_container"
+          ],
+          "zoneSauf": [
+            "bottom_sheet_container",
+            "layout_comment_thread_edittext",
+            "comment_composer_parent"
+          ],
+          "si": [
+            {
+              "tous": [
+                {
+                  "vue": [
+                    "video_container"
+                  ]
+                },
+                {
+                  "vue": [
+                    "row_feed_profile_header",
+                    "row_feed_photo_profile_name",
+                    "row_feed_view_group_buttons",
+                    "row_feed_button_like",
+                    "main_feed_action_bar"
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -88,6 +192,9 @@
           "quoi": "snap",
           "reglage": "shortsSnap",
           "action": "fermerOuCacher",
+          "toucher": [
+            "ngs_spotlight_icon_container"
+          ],
           "si": [
             {
               "vuePleinEcran": "spotlight",
@@ -127,6 +234,11 @@
           "quoi": "snapStories",
           "reglage": "shortsSnapStories",
           "action": "fermerOuCacher",
+          "toucher": [
+            "df_large_story",
+            "df_small_story",
+            "df_story"
+          ],
           "amorce": [
             {
               "tous": [
@@ -186,6 +298,49 @@
             {
               "onglet": "reels",
               "parcours": 700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "TikTok",
+      "paquets": [
+        "com.zhiliaoapp.musically",
+        "com.ss.android.ugc.trill",
+        "com.zhiliaoapp.musically.go",
+        "com.ss.android.ugc.trill.go",
+        "com.tiktok.lite.go",
+        "com.ss.android.ugc.aweme",
+        "com.ss.android.ugc.aweme.lite"
+      ],
+      "diagnostic": "ids+classes",
+      "courtes": [
+        {
+          "quoi": "tiktok",
+          "reglage": "shortsTikTok",
+          "action": "fermerOuCacher",
+          "si": [
+            {
+              "tous": [
+                {
+                  "surface": [
+                    "ViewPager"
+                  ],
+                  "hauteur": 0.85,
+                  "largeur": 0.9,
+                  "parcours": 600
+                },
+                {
+                  "pas": {
+                    "surface": [
+                      "EditText"
+                    ],
+                    "focus": true,
+                    "parcours": 600
+                  }
+                }
+              ]
             }
           ]
         }
@@ -274,6 +429,11 @@
     "com.facebook.katana",
     "com.zhiliaoapp.musically",
     "com.ss.android.ugc.trill",
+    "com.zhiliaoapp.musically.go",
+    "com.ss.android.ugc.trill.go",
+    "com.tiktok.lite.go",
+    "com.ss.android.ugc.aweme",
+    "com.ss.android.ugc.aweme.lite",
     "com.twitter.android",
     "com.reddit.frontpage",
     "com.pinterest",
