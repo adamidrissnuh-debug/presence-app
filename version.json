@@ -1,10 +1,9 @@
 {
-  "versionCode": 70005,
-  "versionName": "7.0.5",
-  "sha256": "3275e4ad9ad5b6bfb0b173d8295837ab514bfd00213193b26d9cef5fe32b1321",
-  "taille": 40819668,
+  "versionCode": 70006,
+  "versionName": "7.0.6",
+  "sha256": "e1e54f96e786fdd5c39e8afc82d7580f95b674d63b3747bafb031953eed8d552",
+  "taille": 40819576,
   "nouveautes": [
-    "Instagram : en défilant, la carte couvre la vidéo sans en laisser dépasser",
-    "TikTok, Snap : les boutons d'Android restent visibles sous le voile"
+    "TikTok : la barre du bas reste visible sous le voile (messages, notifications, profil)"
   ]
 }
