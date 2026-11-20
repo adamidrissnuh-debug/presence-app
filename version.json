@@ -1,16 +1,12 @@
 {
-  "versionCode": 70000,
-  "versionName": "7.0.0",
-  "sha256": "e08a252616edf4af139faedd81026c6235dbc1ab41d8bc21d1f8161586305d55",
-  "taille": 40813792,
+  "versionCode": 70001,
+  "versionName": "7.0.1",
+  "sha256": "71c8124731435fb02271c49683565fe20e228e007ac5868c40fc71235f36b52f",
+  "taille": 40817168,
   "nouveautes": [
-    "Un menu tout simple : Ma journée, Mes proches, Lire et écrire, Me protéger, Prière. Et « Que veux-tu faire ? » trouve tout en un mot, avec une visite guidée la première fois.",
-    "Le vrai temps : chaque minute sur le téléphone compte, l'écran verrouillé dit « Posé depuis 18 h 05 », et il ne reste qu'une notification, discrète.",
-    "Les shorts cachés plus vite, sur un fond sombre. Instagram : les reels du fil masqués et les stories cachées. YouTube : une vidéo trop courte se met en pause, et « Regarder jusqu'au bout ».",
-    "Le Coran en entier (arabe, traduction, phonétique), et la khatma qui ouvre le bon juz'.",
-    "La vraie lune dans ton univers : touche-la pour sa phase d'aujourd'hui et de demain.",
-    "« Lire un peu » en glissant vers la gauche, tes widgets se déplacent, et « Mon plan en 3 minutes ».",
-    "« Arrêter Présence » toujours à portée, et les paramètres du téléphone jamais bloqués.",
-    "Le tiroir d'apps plus fluide, et « Ta semaine avant Présence » comprise d'un coup d'œil."
+    "Les nouvelles règles anti-shorts arrivent dès la mise à jour (reels du fil Instagram, TikTok)",
+    "Réglages : « Écrans » au-dessus de Téléphone, Ordinateur, Télé",
+    "Liseuse : schémas entiers, et « Texte adapté » en un toucher depuis la page originale",
+    "Écran verrouillé : « Posé depuis… », qui repart à chaque déverrouillage"
   ]
 }
